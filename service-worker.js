@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/salad-shop-web/precache-manifest.d163fe1615415c08edad6786fff37bae.js"
+  "/salad-shop-web/precache-manifest.82b602823c51ec4976f66bda2b1ae978.js"
 );
 
 self.addEventListener('message', (event) => {
