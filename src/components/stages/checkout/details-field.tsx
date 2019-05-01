@@ -4,11 +4,13 @@ import "./details-field.css";
 export const DetailsField = ({
   fieldName,
   onChange,
+  defaultValue,
   isValid = true
 }: {
   fieldName: string;
   onChange: (value: string) => void;
   isValid?: boolean;
+  defaultValue?: string;
 }) => {
   const handleOnChange = (event: React.ChangeEvent<HTMLInputElement>) =>
     onChange && onChange(event.target.value);
@@ -23,7 +25,11 @@ export const DetailsField = ({
             {!isValid ? "invalid value" : ""}
           </div>
         }
-        <input type="text" onChange={handleOnChange} />
+        <input
+          type="text"
+          onChange={handleOnChange}
+          defaultValue={defaultValue}
+        />
       </div>
     </div>
   );
