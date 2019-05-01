@@ -6,13 +6,18 @@ import "./App.css";
 import { useReducer } from "react";
 import { OrderContext } from "./models/order-context";
 import { OrderSaladReducer, initialState } from "./order-salad-reducer";
+import { baseUrl } from "./config";
 
 const App = () => {
   const [state, dispatch] = useReducer(OrderSaladReducer, initialState);
   return (
     <div className="App">
       <div className="store-header">
-        <img src="salad-icon.png" className="logo" alt="sald-icon" />
+        <img
+          src={`${baseUrl}/salad-icon.png`}
+          className="logo"
+          alt="sald-icon"
+        />
         <span>Salad Shop</span>
       </div>
       <OrderContext.Provider value={{ state, dispatch }}>
