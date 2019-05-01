@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/salad-shop-web/static/css/main.9cdaf35c.chunk.css",
-    "main.js": "/salad-shop-web/static/js/main.600bf7e8.chunk.js",
-    "main.js.map": "/salad-shop-web/static/js/main.600bf7e8.chunk.js.map",
-    "runtime~main.js": "/salad-shop-web/static/js/runtime~main.bfa4d34c.js",
-    "runtime~main.js.map": "/salad-shop-web/static/js/runtime~main.bfa4d34c.js.map",
-    "static/js/2.a7397fb3.chunk.js": "/salad-shop-web/static/js/2.a7397fb3.chunk.js",
-    "static/js/2.a7397fb3.chunk.js.map": "/salad-shop-web/static/js/2.a7397fb3.chunk.js.map",
-    "index.html": "/salad-shop-web/index.html",
-    "precache-manifest.d163fe1615415c08edad6786fff37bae.js": "/salad-shop-web/precache-manifest.d163fe1615415c08edad6786fff37bae.js",
-    "service-worker.js": "/salad-shop-web/service-worker.js",
-    "static/css/main.9cdaf35c.chunk.css.map": "/salad-shop-web/static/css/main.9cdaf35c.chunk.css.map"
+    "main.css": "/salad-salad.jsonshop-web/static/css/main.9cdaf35c.chunk.css",
+    "main.js": "/salad-salad.jsonshop-web/static/js/main.441c0b78.chunk.js",
+    "main.js.map": "/salad-salad.jsonshop-web/static/js/main.441c0b78.chunk.js.map",
+    "runtime~main.js": "/salad-salad.jsonshop-web/static/js/runtime~main.9fcf9a17.js",
+    "runtime~main.js.map": "/salad-salad.jsonshop-web/static/js/runtime~main.9fcf9a17.js.map",
+    "static/js/2.a7397fb3.chunk.js": "/salad-salad.jsonshop-web/static/js/2.a7397fb3.chunk.js",
+    "static/js/2.a7397fb3.chunk.js.map": "/salad-salad.jsonshop-web/static/js/2.a7397fb3.chunk.js.map",
+    "index.html": "/salad-salad.jsonshop-web/index.html",
+    "precache-manifest.78e2b0bce395f38643721b6462a6a011.js": "/salad-salad.jsonshop-web/precache-manifest.78e2b0bce395f38643721b6462a6a011.js",
+    "service-worker.js": "/salad-salad.jsonshop-web/service-worker.js",
+    "static/css/main.9cdaf35c.chunk.css.map": "/salad-salad.jsonshop-web/static/css/main.9cdaf35c.chunk.css.map"
   }
 }
