@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/salad-shop-web/static/css/main.dea4608c.chunk.css",
-    "main.js": "/salad-shop-web/static/js/main.4ca9416a.chunk.js",
-    "main.js.map": "/salad-shop-web/static/js/main.4ca9416a.chunk.js.map",
+    "main.css": "/salad-shop-web/static/css/main.9a4bbaab.chunk.css",
+    "main.js": "/salad-shop-web/static/js/main.e7887216.chunk.js",
+    "main.js.map": "/salad-shop-web/static/js/main.e7887216.chunk.js.map",
     "runtime~main.js": "/salad-shop-web/static/js/runtime~main.bfa4d34c.js",
     "runtime~main.js.map": "/salad-shop-web/static/js/runtime~main.bfa4d34c.js.map",
-    "static/js/2.a7397fb3.chunk.js": "/salad-shop-web/static/js/2.a7397fb3.chunk.js",
-    "static/js/2.a7397fb3.chunk.js.map": "/salad-shop-web/static/js/2.a7397fb3.chunk.js.map",
+    "static/js/2.603573b0.chunk.js": "/salad-shop-web/static/js/2.603573b0.chunk.js",
+    "static/js/2.603573b0.chunk.js.map": "/salad-shop-web/static/js/2.603573b0.chunk.js.map",
     "index.html": "/salad-shop-web/index.html",
-    "precache-manifest.c0739e4e8ea1bbe1afbc901257f6f4f4.js": "/salad-shop-web/precache-manifest.c0739e4e8ea1bbe1afbc901257f6f4f4.js",
+    "precache-manifest.a91b0394abfbc94fbc27750caad3aaa3.js": "/salad-shop-web/precache-manifest.a91b0394abfbc94fbc27750caad3aaa3.js",
     "service-worker.js": "/salad-shop-web/service-worker.js",
-    "static/css/main.dea4608c.chunk.css.map": "/salad-shop-web/static/css/main.dea4608c.chunk.css.map"
+    "static/css/main.9a4bbaab.chunk.css.map": "/salad-shop-web/static/css/main.9a4bbaab.chunk.css.map"
   }
 }
