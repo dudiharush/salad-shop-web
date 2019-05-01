@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salad-shop-web/static/css/main.d57ad54f.chunk.css",
+    "main.js": "/salad-shop-web/static/js/main.5a109619.chunk.js",
+    "main.js.map": "/salad-shop-web/static/js/main.5a109619.chunk.js.map",
+    "runtime~main.js": "/salad-shop-web/static/js/runtime~main.bfa4d34c.js",
+    "runtime~main.js.map": "/salad-shop-web/static/js/runtime~main.bfa4d34c.js.map",
+    "static/js/2.a7397fb3.chunk.js": "/salad-shop-web/static/js/2.a7397fb3.chunk.js",
+    "static/js/2.a7397fb3.chunk.js.map": "/salad-shop-web/static/js/2.a7397fb3.chunk.js.map",
+    "index.html": "/salad-shop-web/index.html",
+    "precache-manifest.acc5a7241accec450b984c8d08ce91ad.js": "/salad-shop-web/precache-manifest.acc5a7241accec450b984c8d08ce91ad.js",
+    "service-worker.js": "/salad-shop-web/service-worker.js",
+    "static/css/main.d57ad54f.chunk.css.map": "/salad-shop-web/static/css/main.d57ad54f.chunk.css.map"
+  }
+}
