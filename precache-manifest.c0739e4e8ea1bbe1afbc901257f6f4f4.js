@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26396adf84457d6c6ac69583c5778a5d",
+    "revision": "fa3305b072f566cdc67a1f08838c909e",
     "url": "/salad-shop-web/index.html"
   },
   {
-    "revision": "8d9275eff02adbd3fea0",
+    "revision": "4047c6763caa4144d73d",
     "url": "/salad-shop-web/static/css/main.dea4608c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/salad-shop-web/static/js/2.a7397fb3.chunk.js"
   },
   {
-    "revision": "8d9275eff02adbd3fea0",
-    "url": "/salad-shop-web/static/js/main.08e36df6.chunk.js"
+    "revision": "4047c6763caa4144d73d",
+    "url": "/salad-shop-web/static/js/main.4ca9416a.chunk.js"
   },
   {
     "revision": "6d970bbee9d275473c14",
